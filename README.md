@@ -269,11 +269,12 @@ Principle of least privilege. The scanner SA has only `run.viewer`, `aiplatform.
 
 ## Team
 
-Built in 10 hours at the **Build with AI · SF Hackathon 2026**.
+Built in 8 hours at the **Build with AI · SF Hackathon 2026**.
 
 - Nikita Desale
 - Samadrita Roy Chowdhury
 
+#google-adk  #gemini  #google-cloud  #cloud-run  #bigquery  #fastapi  #security  #ai-agents #builtwithgoogle #buildwithaisf
 ---
 
 
