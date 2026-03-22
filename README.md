@@ -34,6 +34,7 @@ ShadowAgentMap continuously scans your GCP project and produces a live, visual t
 ---
 
 ## Architecture
+<img width="1328" height="786" alt="Screenshot 2026-03-22 at 3 55 12 PM" src="https://github.com/user-attachments/assets/07ce7a0b-7c55-4825-ac8c-38d4db8e1bb6" />
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
