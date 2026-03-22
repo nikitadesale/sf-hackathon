@@ -272,9 +272,8 @@ Principle of least privilege. The scanner SA has only `run.viewer`, `aiplatform.
 Built in 10 hours at the **Build with AI · SF Hackathon 2026**.
 
 - Nikita Desale
+- Samadrita Roy Chowdhury
 
 ---
 
-## License
 
-MIT
