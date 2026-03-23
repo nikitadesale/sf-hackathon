@@ -132,7 +132,6 @@ Three Cloud Run services deployed to demonstrate the three classification states
 | Infrastructure | Terraform | Service accounts, IAM bindings, BigQuery schema |
 | Frontend | React + React Flow | Live threat map with animated edges |
 | Deployment | Cloud Run | Serverless, scales to zero |
-| Pipeline Visualization | RocketRide | Visual pipeline canvas (Chat → Gemini → Output) |
 
 ---
 
