@@ -169,8 +169,6 @@ shadow-agent-map/
 │   ├── iam.tf                         # Service accounts + bindings
 │   ├── bigquery.tf                    # Dataset + agent_registry table
 │   └── variables.tf
-├── pipelines/
-│   └── monitor.pipe                   # RocketRide pipeline (Chat → Gemini → Output)
 └── architecture/
     └── flow.html                      # Animated architecture diagram
 ```
